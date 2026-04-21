@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TelaConfigurações</string>
+    <string name="settings_icon_description">Configurações</string>
+    <string name="settings_consent">Aceitar cookies não essenciais?</string>
+    <string name="settings_mobile_data">Permitir download com dados móveis?</string>
+    <string name="settings_text_size">Tamanho do texto:</string>
+    <string name="settings_name">Nome:</string>
+    <string name="sign_out">Sair</string>
+    <string name="alert_title">Sair</string>
+    <string name="alert_message">Tem certeza?</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancelar</string>
+    <string name="payment_method">Forma de pagamento preferida</string>
+    <string name="settings_profile_image">Imagem de perfil</string>
+</resources>
